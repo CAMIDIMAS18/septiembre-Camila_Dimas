@@ -2,3 +2,5 @@ En esta carpeta
 se resuelve
 los ejercicios
 del prático 4
+
+este es un archivo .txt
